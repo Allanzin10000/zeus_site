@@ -1,0 +1,51 @@
+.cor_texto1
+ {
+     color: #000000;
+ }
+
+h1, h2, h3, p, legend
+ {
+    font-family:"Lora", cursive;
+    font-size: 200%;
+    color: #FBD602;
+    height: 15px;
+ }
+
+ .roxo {background-color: #3C1B89;}
+
+ .azul{background-color:#070063 ;}
+
+ .amarelo{background-color:#FBD602 ;}
+
+ .azul_claro{background-color:#1F7ACF ;}
+
+img
+ {
+    border-radius: 10%;
+ }
+
+.execao_img
+ {
+    border-radius: 0%;
+ }
+
+ a, label
+  {
+   font-family:"Lora", cursive;
+   color: #FBD602;
+   height: 15px;   
+  }
+
+.altura
+ {
+   top: 100000000000000000000%;}
+   #mudando{
+      position: absolute;
+      left: 150px;
+   }
+   #textomudado{
+      color: black;
+   position: absolute;
+      top: 130px;
+      right: 300px;
+   }
